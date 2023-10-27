@@ -5,6 +5,10 @@ public class Solution {
         Scanner sc = new Scanner(System.in);
         String a = sc.next();
 
-        System.out.println(a);
+        if(a.length() > 1000000 || a.length() < 1)
+            System.out.println("문자열을 다시입력 하세요.");
+  
+        else 
+            System.out.println(a);
     }
 }
