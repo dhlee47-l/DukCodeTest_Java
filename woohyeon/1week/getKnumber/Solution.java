@@ -1,5 +1,3 @@
-package getKnumber;
-
 class Cola {
     public int solution(int a, int b, int n) {
         int answer = 0;

@@ -1,5 +1,3 @@
-package squareRoot;
-
 import java.math.*;
 
 class Solution {
