@@ -1,5 +1,3 @@
-package Harshad;
-
 import java.math.*;
 
 class Solution {
